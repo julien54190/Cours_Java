@@ -139,5 +139,7 @@ public class Main {
         var indefini = Float.NaN;
         var infinity = Float.POSITIVE_INFINITY;
         var infinityNegative = Float.NEGATIVE_INFINITY;
+
+
     }
 }
