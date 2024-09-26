@@ -117,5 +117,17 @@ public class Main {
 
         System.out.println((chaine + " modifié"));
         System.out.println(chaine.equals(chaine2));
+
+        // Multabilité et immuabilité (on peu changer ou pas une variable)
+
+        var nbr = 3;
+        nbr = 5;
+
+        final var nbr2 = 3;
+        //nbr2 = 5 elle est immuable on peut pas la changer
+
+        var chaine6 = "chaine";
+        chaine6 = "abc";
+        System.out.println(chaine6);
     }
 }
