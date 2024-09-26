@@ -129,5 +129,15 @@ public class Main {
         var chaine6 = "chaine";
         chaine6 = "abc";
         System.out.println(chaine6);
+
+        //L'arithmétique en Java
+
+        //var result10 = 10 / 0; // erreur
+        var result11 = 10.0 / 0.0; // Infinity
+        System.out.println(result11);
+
+        var indefini = Float.NaN;
+        var infinity = Float.POSITIVE_INFINITY;
+        var infinityNegative = Float.NEGATIVE_INFINITY;
     }
 }

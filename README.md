@@ -6,4 +6,5 @@
 - 2.Les types
 - 3.Les conversions de types
 - 4.Les Opérateurs
-- 5.Multabilité et immuabilité
+- 5.Multabilité et 
+- 6.L'arithmétique en Java
