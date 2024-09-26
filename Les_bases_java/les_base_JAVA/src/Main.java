@@ -35,5 +35,38 @@ public class Main {
         var nimpoteQuoi2 = "ok ok ok ok ";
         var nimpoteQuoi3 = 10.5f;
 
+        // convertion de type
+
+        byte fromByte = 12;
+        int toInt = fromByte;
+        System.out.println(toInt);
+
+        float fromFloat = 12.43f;
+        double toDouble = fromFloat;
+
+        char fromChar = 'd';
+        int toIntFromChar = fromChar; // = 100 car entier d =100 si c = 99
+        System.out.println(toIntFromChar);
+
+        int valeurDeD = 100;
+        char d = (char) valeurDeD;
+        System.out.println(d);
+
+        float fromFloat2 = 12.5f;
+        int toInt2 = (int) fromFloat2;
+        System.out.println(toInt2); // on va perdre tout se qui a derriere la virgule
+
+        int fromInt3 = 130;
+        byte toByte = (byte) fromInt3;
+        System.out.println(toByte); // valeur differente car byte va que jusque 127
+
+        String fromString = "123";
+        var integer = Integer.valueOf(fromString);
+        System.out.println(integer);
+
+        int fromInt4 = 123;
+        String toString4 = String.valueOf(fromInt4);
+        System.out.println(toString4);
+
     }
 }
