@@ -68,5 +68,54 @@ public class Main {
         String toString4 = String.valueOf(fromInt4);
         System.out.println(toString4);
 
+        // Les Opérateurs
+
+        var entier5 = -12;
+        var addition = 1+2;
+        var soustration = 5-2.2;
+        var multiplication = 3*2;
+        var division = 5/2;
+        var modulo = 5%2;
+
+        var caractere = 'b';
+        System.out.println((char) (caractere + 'a'));
+        System.out.println(caractere + 'a');
+
+        addition += 5; // addition = addition + 5
+        System.out.println(addition);
+
+        addition++;
+        System.out.println(addition);
+
+        var plusPetit = 4;
+        var plusLong = 8;
+        var comparaison = plusPetit == plusLong;
+        var comparaison2 = plusPetit < plusLong;
+        var comparaison3= plusPetit <= plusLong;
+        var comparaison4 = plusPetit > plusLong;
+        var comparaison5 = plusPetit >= plusLong;
+        var comparaison6 = plusPetit != plusLong;
+        System.out.println(comparaison);
+        System.out.println(comparaison2);
+        System.out.println(comparaison3);
+        System.out.println(comparaison4);
+        System.out.println(comparaison5);
+        System.out.println(comparaison6);
+
+        var oui = true;
+        var non = false;
+
+        var comparaison7 = oui || non;
+        var comparaison8 = oui && non;
+        System.out.println(comparaison7);
+        System.out.println(comparaison8);
+        System.out.println(!comparaison8);
+        System.out.println(!comparaison8);
+
+        var chaine = "contenu";
+        var chaine2 = "contenu";
+
+        System.out.println((chaine + " modifié"));
+        System.out.println(chaine.equals(chaine2));
     }
 }
