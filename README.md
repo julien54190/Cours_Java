@@ -12,3 +12,4 @@
 # 01.Les structure de contrôles
 
 - les instructions if, else if, else
+- les instruction Switch
