@@ -9,7 +9,7 @@
 - 5.Multabilité et 
 - 6.L'arithmétique en Java
 
-# 01.Les structure de contrôles
+# 02.Les structure de contrôles
 
 - les instructions if, else if, else
 - les instruction Switch
@@ -18,3 +18,7 @@
 - La boucle FOR
 - boucle While
 - Instruction break et continue
+
+# 03.Les Fonctions
+
+- Introduction au Fonction
