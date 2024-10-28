@@ -32,3 +32,4 @@
 - Les Méthodes
 - Les Accesseurs
 - L'héritage
+- Méthode de comparaison d'objets et d'affichage
