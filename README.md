@@ -31,3 +31,4 @@
 - les attributs et constructeurs
 - Les Méthodes
 - Les Accesseurs
+- L'héritage
