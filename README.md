@@ -28,3 +28,4 @@
 `
 # 04.La programmation oriantée objet
 - les classes et objets
+- les attributs et constructeurs
