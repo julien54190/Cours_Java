@@ -14,3 +14,4 @@
 - les instructions if, else if, else
 - les instruction Switch
 - Opérateur Ternaire
+- Introduction aux itérables (Tableau)
