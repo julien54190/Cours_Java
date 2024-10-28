@@ -30,3 +30,4 @@
 - les classes et objets
 - les attributs et constructeurs
 - Les Méthodes
+- Les Accesseurs
