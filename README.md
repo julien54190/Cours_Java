@@ -35,3 +35,4 @@
 - Méthode de comparaison d'objets et d'affichage
 - Les reccords
 - Introduction au interfaces
+- les classes internes
