@@ -45,3 +45,7 @@
 - Type set : les ensemble
 - Type Map : Les associations clé/valeurs
 - Détaillons méthode haschCode
+
+# 06.Les packages
+
+- les package Introduction
