@@ -50,3 +50,7 @@
 
 - les package Introduction
 - Le mot clé Protected
+
+# 07.La gestion des erreur
+
+- les block try/ catch / finally
