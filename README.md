@@ -55,3 +55,4 @@
 
 - Les block try/ catch / finally
 - Exceptions personnalisées
+- Instruction try-with-ressources
