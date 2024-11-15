@@ -53,4 +53,5 @@
 
 # 07.La gestion des erreur
 
-- les block try/ catch / finally
+- Les block try/ catch / finally
+- Exceptions personnalisées
